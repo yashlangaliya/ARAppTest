@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A63D3008-AB88-49B4-AD3A-24CA72C58AB5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D400EEE-72BB-492F-AC8B-1FDF5B5638B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARApp/MustacheNode.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "next()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44782244-31FB-41E1-AAAC-9601ED96F40C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARApp/Helpers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getVideoDuration()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "44782244-31FB-41E1-AAAC-9601ED96F40C - c9a5ec5f8ee7dda0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Foundation.URL.checkFileExist() -&gt; Swift.Bool"
+                  moduleName = "ARApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yash-mac/Documents/Prototypes/ARApp/ARApp/Helpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "44782244-31FB-41E1-AAAC-9601ED96F40C - 67f5bba69746c183"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Foundation.URL.getVideoDuration() -&gt; Swift.String"
+                  moduleName = "ARApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yash-mac/Documents/Prototypes/ARApp/ARApp/Helpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "44782244-31FB-41E1-AAAC-9601ED96F40C - 67f5bba69746c183"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Foundation.URL.getVideoDuration() -&gt; Swift.String"
+                  moduleName = "ARApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yash-mac/Documents/Prototypes/ARApp/ARApp/Helpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
